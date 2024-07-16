@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.0dc44f44.css",
-    "main.js": "/static/js/main.2d6a23ea.js",
+    "main.js": "/static/js/main.8ab257a9.js",
     "static/media/sulton.png": "/static/media/sulton.5d61f6a29c4055cadc98.png",
     "static/media/mhjr.png": "/static/media/mhjr.b3f1b2e208634d81470a.png",
     "static/media/proyek2.jpg": "/static/media/proyek2.47738e271fc0624281ef.jpg",
     "static/media/proyek6.jpg": "/static/media/proyek6.ac6c234dff074b8b2274.jpg",
     "static/media/proyek5.jpg": "/static/media/proyek5.00a498e0373aa0ee9cee.jpg",
-    "static/media/proyek1.jpg": "/static/media/proyek1.eb76572291a76b232d13.jpg",
     "static/media/proyek3.jpg": "/static/media/proyek3.dfc5580d41a817aba917.jpg",
     "static/media/proyek4.jpg": "/static/media/proyek4.437e03bc7e502ce78e46.jpg",
+    "static/media/netflix.jpg": "/static/media/netflix.2a50a4874f0a34b504e7.jpg",
     "index.html": "/index.html",
     "main.0dc44f44.css.map": "/static/css/main.0dc44f44.css.map",
-    "main.2d6a23ea.js.map": "/static/js/main.2d6a23ea.js.map"
+    "main.8ab257a9.js.map": "/static/js/main.8ab257a9.js.map"
   },
   "entrypoints": [
     "static/css/main.0dc44f44.css",
-    "static/js/main.2d6a23ea.js"
+    "static/js/main.8ab257a9.js"
   ]
 }
